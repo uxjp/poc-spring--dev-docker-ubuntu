@@ -1,5 +1,5 @@
 # Spring-boot Server - Developed within a Docker container
-This project was developed from an image generated using https://github.com/uxjp/dev-docker-ubuntu
+This project was developed from an image generated using https://github.com/uxjp/dev-docker-ubuntu/tree/java  
 in other words everything was done from within a container docker(editing, commits, push, tests...).
 
 The goal of this repo is to prove the repo https://github.com/uxjp/dev-docker-ubuntu is capable to setup an efficient development enviroment in a couple of minutes for Java/Spring. After executing a single command and using a more secure way to store your data(ssh keys, github user data). There is detailed information about setup in the repo.
